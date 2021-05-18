@@ -20,9 +20,9 @@ The categorical features are Special Day, Month, Operating Systems, Browser, Reg
 
 **Informational**: Number of pages visited by the user about the website
 
-**_Informational Duration**: Time spent on Informational pages by the user
+**Informational Duration**: Time spent on Informational pages by the user
 
-**_Product Related:** Number of product related pages visited by the user
+**Product Related:** Number of product related pages visited by the user
 
 **Product Related Duration:** Time spent on Product related pages by the user.
 
@@ -47,6 +47,16 @@ The categorical features are Special Day, Month, Operating Systems, Browser, Reg
 **Visitor Type:** Defines the nature of user.
 
 **Weekend:** Defines the timing of the user.
+
+
+
+
+
+
+
+
+
+
 
 
 **CONCLUSION**
